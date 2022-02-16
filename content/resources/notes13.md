@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on land takings in fast-growing economies, land policy,
   and a comparative study of controversies involving land conversion in Vietnam, China
   and New England by guest lecturer Prof. Annette Kim.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2007/4c4661c51201667be2389e8a3db3dc51_notes13.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2007/4c4661c51201667be2389e8a3db3dc51_notes13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes13.pdf
 uid: 4c4661c5-1201-667b-e238-9e8a3db3dc51

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on planning as facilitation and micro-settings.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2007/5df1c47692557362dc27727eb1be9c85_notes11.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2007/5df1c47692557362dc27727eb1be9c85_notes11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes11.pdf
 uid: 5df1c476-9255-7362-dc27-727eb1be9c85

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Communication
 uid: fd7df159-c358-3481-3eb4-234efa1c4799
 ---

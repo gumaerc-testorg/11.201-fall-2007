@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on the economic redevelopment of New Orleans, regional
   thinking, and Hurricane Katrina.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2007/0a507d49bce30c341bbd081b3ae3dcdb_notes3.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2007/0a507d49bce30c341bbd081b3ae3dcdb_notes3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes3.pdf
 uid: 0a507d49-bce3-0c34-1bbd-081b3ae3dcdb

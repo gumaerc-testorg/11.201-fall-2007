@@ -2,8 +2,13 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 18 on planning and social
   diversity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2007/1191ade39d6b9a6becc4aea63076f58e_read18.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2007/1191ade39d6b9a6becc4aea63076f58e_read18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: read18.pdf
 uid: 1191ade3-9d6b-9a6b-ecc4-aea63076f58e

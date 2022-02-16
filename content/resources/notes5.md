@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes with a debriefing on Lecture 4, discussion of the Marcuse
   article, and discussion of the class assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2007/a4a7b56624e15d22660bf3fc62598fe4_notes5.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2007/a4a7b56624e15d22660bf3fc62598fe4_notes5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes5.pdf
 uid: a4a7b566-24e1-5d22-660b-f3fc62598fe4

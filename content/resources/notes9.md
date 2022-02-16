@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on planning as interest-group politics, citizen participation,
   and the Curitiba neighborhood planning scenario.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-201-gateway-planning-action-fall-2007/b81c748927e02b77a40b91765d4f89d8_notes9.pdf
+file: /media/courses/11-201-gateway-planning-action-fall-2007/b81c748927e02b77a40b91765d4f89d8_notes9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes9.pdf
 uid: b81c7489-27e0-2b77-a40b-91765d4f89d8
