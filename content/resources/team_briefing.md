@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06a3a090-0473-77a5-3c0e-e0f10fec191c
 resourcetype: Document
 title: team_briefing.pdf
 uid: 9644e3b9-c682-931b-4ec7-1a6c2ccdad20

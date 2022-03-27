@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: CourseSection
+parent_uid: fd7df159-c358-3481-3eb4-234efa1c4799
 resourcetype: Document
 title: briefing.pdf
 uid: 4b30929f-6609-1492-93b7-eb3ec2abd9e8

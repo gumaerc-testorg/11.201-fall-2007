@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06a3a090-0473-77a5-3c0e-e0f10fec191c
 resourcetype: Document
 title: observation.pdf
 uid: c3f48ecd-11f5-d2e9-2321-121d49aed5cc

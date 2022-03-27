@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: CourseSection
+parent_uid: fd7df159-c358-3481-3eb4-234efa1c4799
 resourcetype: Document
 title: samples.pdf
 uid: 241bd8cb-33ff-278c-6dcc-3060dbec10c4

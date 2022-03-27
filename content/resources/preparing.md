@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: CourseSection
+parent_uid: fd7df159-c358-3481-3eb4-234efa1c4799
 resourcetype: Document
 title: preparing.pdf
 uid: 03d756c5-f222-8753-a866-b4213241b646

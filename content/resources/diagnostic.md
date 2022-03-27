@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06a3a090-0473-77a5-3c0e-e0f10fec191c
 resourcetype: Document
 title: diagnostic.pdf
 uid: 3c76fa81-3eb6-f35f-8f97-3edbbe4188c4
