@@ -2,7 +2,7 @@
 content_type: resource
 description: Slides from a communication workshop on how to prepare and deliver an
   effective briefing.
-file: /media/courses/11-201-gateway-planning-action-fall-2007/4b30929f6609149293b7eb3ec2abd9e8_briefing.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/4b30929f6609149293b7eb3ec2abd9e8_briefing.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: briefing.pdf
 uid: 4b30929f-6609-1492-93b7-eb3ec2abd9e8
 ---
+Slides from a communication workshop on how to prepare and deliver an effective briefing.
+

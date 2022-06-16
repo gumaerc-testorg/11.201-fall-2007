@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides an overview of the course and information
+  about course format and requirements, structure, assignments, evaluation and feedback,
+  professional communication, class meetings, teaching styles, the teaching team,
+  and course materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

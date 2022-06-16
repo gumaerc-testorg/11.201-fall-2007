@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides resources relating to communication, power, and
+  diversity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
