@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/42c8c1042b0b562fd88af77f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes10.pdf
 uid: 42c8c104-2b0b-562f-d88a-f77fece95b0a
 ---
 Lecture notes on planning as facilitation, resource conflict, and the "Towering Dilemma" case.
-

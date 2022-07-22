@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/818f5ce4e857af7bdef896d4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: read1.pdf
 uid: 818f5ce4-e857-af7b-def8-96d4895e9297
 ---
 Reading tips and study questions for the introductory lecture session.
-

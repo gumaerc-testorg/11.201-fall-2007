@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/6800f46094dd7b995049cc4a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: slides8.pdf
 uid: 6800f460-94dd-7b99-5049-cc4a705c4258
 ---
 Lecture slides on planning and interest-group politics and the case of Curitiba, Brazil.
-

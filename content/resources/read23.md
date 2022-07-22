@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/cf11c091c450378cfe8604c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: read23.pdf
 uid: cf11c091-c450-378c-fe86-04c7106b15ae
 ---
 Reading tips and study questions for Lecture 23 on taking stock of self.
-

@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/3c76fa813eb6f35f8f973edb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: diagnostic.pdf
 uid: 3c76fa81-3eb6-f35f-8f97-3edbbe4188c4
 ---
 Assignment to write an essay on on "Rebuilding Los Angeles," using Klosterman?s "Arguments for and against planning."
-

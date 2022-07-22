@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/b81e0e28747f576d97371053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: read2.pdf
 uid: b81e0e28-747f-576d-9737-105318e14041
 ---
 Reading tips and study questions for Lecture 2 on rebuilding Los Angeles.
-

@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/e9f0c29dec495f1ac1a7e991
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: slides17.pdf
 uid: e9f0c29d-ec49-5f1a-c1a7-e9914b9b9b43
 ---
 Lecture slides on planning and human diversity: issues and stakes.
-

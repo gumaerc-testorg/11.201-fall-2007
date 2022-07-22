@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/fa2f055f9884b6fd472f0caa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: read16.pdf
 uid: fa2f055f-9884-b6fd-472f-0caa5c8435e3
 ---
 Reading tips and study questions for Lecture 16 on multi-level planning.
-

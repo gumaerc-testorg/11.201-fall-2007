@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/f2911a9d49af76f5e0bf922c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: read17.pdf
 uid: f2911a9d-49af-76f5-e0bf-922cfb0514fa
 ---
 Reading tips and study questions for Lecture 17 on planning and social diversity.
-

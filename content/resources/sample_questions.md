@@ -5,6 +5,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/1d965b772882a2d39b6781f4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample_questions.pdf
 uid: 1d965b77-2882-a2d3-9b67-81f4509aaa0c
 ---
 Sample questions for the midterm exam.
-

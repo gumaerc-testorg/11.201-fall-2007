@@ -5,6 +5,7 @@ description: Sample slides with commentary from a communication workshop on how 
 file: /courses/11-201-gateway-planning-action-fall-2007/241bd8cb33ff278c6dcc3060dbec10c4_samples.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Communication
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: samples.pdf
 uid: 241bd8cb-33ff-278c-6dcc-3060dbec10c4
 ---
 Sample slides with commentary from a communication workshop on how to prepare and deliver an effective briefing.
-

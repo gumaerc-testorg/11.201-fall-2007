@@ -7,6 +7,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/73bb494876bdf6f9df6a7d76
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: notes2.pdf
 uid: 73bb4948-76bd-f6f9-df6a-7d7640918c57
 ---
 Lecture notes on planning history and traditions, case retrospective, questions for reflective planners, the use of theory, RLA re-analyzed, planning traditions and dilemmas overviewed, and transition to briefing case and exercise.
-

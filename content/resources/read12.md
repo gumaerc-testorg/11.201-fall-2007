@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/597d2e17abf8a8ec92c45ea7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: read12.pdf
 uid: 597d2e17-abf8-a8ec-92c4-5ea77709d39d
 ---
 Reading tips and study questions for Lecture 12 on the clash of planning styles.
-

@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/6421c70472593aa73bd60386
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: read13_overview.pdf
 uid: 6421c704-7259-3aa7-3bd6-03862cb57cec
 ---
 Overview of the final unit of the course, addressing more specific questions about what?s fair, achievable, and wise in contemporary planning contexts.
-

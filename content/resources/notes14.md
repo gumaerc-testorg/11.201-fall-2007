@@ -6,6 +6,7 @@ file: /courses/11-201-gateway-planning-action-fall-2007/220b72b816b6e6d90493104f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes14.pdf
 uid: 220b72b8-16b6-e6d9-0493-104f2732e3e4
 ---
 Lecture notes on planning ethics, principles of ethics, examples of ethical stances, and the value of theory. Guest lecturer: Prof. Annette Kim.
-
