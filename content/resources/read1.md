@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for the introductory lecture session.
 file: /courses/11-201-gateway-planning-action-fall-2007/818f5ce4e857af7bdef896d4895e9297_read1.pdf
+file_size: 19914
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

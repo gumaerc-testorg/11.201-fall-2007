@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides with a course review and discussion on planning your education
   and career.
 file: /courses/11-201-gateway-planning-action-fall-2007/f1b0ad92296983a0ff598ade2d586ea5_slides25.pdf
+file_size: 67970
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

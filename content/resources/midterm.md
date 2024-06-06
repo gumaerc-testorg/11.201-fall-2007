@@ -3,6 +3,7 @@ content_type: resource
 description: 'Midterm exam with three essay questions on planning action: dilemmas
   and approaches. Includes guidelines for writing effective essays.'
 file: /courses/11-201-gateway-planning-action-fall-2007/4e50b9ab1b648a64f1a635a69612961c_midterm.pdf
+file_size: 55135
 file_type: application/pdf
 learning_resource_types:
 - Assignments
