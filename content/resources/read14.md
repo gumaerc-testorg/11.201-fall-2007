@@ -3,6 +3,7 @@ content_type: resource
 description: Reading tips and study questions for Lecture 14 on planning ethics and
   the public interest.
 file: /courses/11-201-gateway-planning-action-fall-2007/448947ef5edbb710e30ad3c9c7c1c53c_read14.pdf
+file_size: 13915
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

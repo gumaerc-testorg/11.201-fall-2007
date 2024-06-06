@@ -4,6 +4,7 @@ description: 'Lecture notes on multi-level planning: means and ends, and case: e
   environment, and development in modern India. Guest lecturer: Prof. Balakrishnan
   Rajagopal.'
 file: /courses/11-201-gateway-planning-action-fall-2007/1a37d5a797e6eeb0049a88ba197501e6_notes15.pdf
+file_size: 50275
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

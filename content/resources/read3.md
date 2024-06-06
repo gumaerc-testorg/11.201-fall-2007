@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 3 on New Orleans recovery.
 file: /courses/11-201-gateway-planning-action-fall-2007/def767568252142bc0ed26a497c3f7f8_read3.pdf
+file_size: 23504
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
