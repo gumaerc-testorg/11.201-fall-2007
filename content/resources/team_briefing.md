@@ -5,6 +5,7 @@ description: 'Team Briefing Assignment: How "Good" are the New Orleans Recovery 
   10 minutes for questions and comments, focused on an assessment of selected New
   Orleans recovery plans.'
 file: /courses/11-201-gateway-planning-action-fall-2007/9644e3b9c682931b4ec71a6c2ccdad20_team_briefing.pdf
+file_size: 159958
 file_type: application/pdf
 learning_resource_types:
 - Assignments
