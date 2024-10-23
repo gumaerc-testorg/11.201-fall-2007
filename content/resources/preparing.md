@@ -2,7 +2,7 @@
 content_type: resource
 description: Slides from a communication workshop on effective professional writing
   and preparing for the memo assignment.
-file: /courses/11-201-gateway-planning-action-fall-2007/03d756c5f2228753a866b4213241b646_preparing.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/03d756c5f2228753a866b4213241b646_preparing.pdf
 file_size: 34608
 file_type: application/pdf
 learning_resource_types: []

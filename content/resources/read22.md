@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 22 on planning and the public
   in smart cities.
-file: /courses/11-201-gateway-planning-action-fall-2007/0bed81ee3247a2af707196a2ae311bc7_read22.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/0bed81ee3247a2af707196a2ae311bc7_read22.pdf
 file_size: 15723
 file_type: application/pdf
 learning_resource_types:

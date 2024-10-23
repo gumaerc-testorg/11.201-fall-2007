@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of feedback and evaluation for the team briefing assignment.
-file: /courses/11-201-gateway-planning-action-fall-2007/6edbf3597826746d493ea7c351d8c11a_feedback3.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/6edbf3597826746d493ea7c351d8c11a_feedback3.pdf
 file_size: 19524
 file_type: application/pdf
 learning_resource_types: []
