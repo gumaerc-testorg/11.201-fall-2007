@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on planning as social reform through expert design and
   public housing. Guest lecturer: Prof. Lawrence Vale'
-file: /courses/11-201-gateway-planning-action-fall-2007/243a18ece5bc9ecfe3f56c885b069bc9_notes7.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/243a18ece5bc9ecfe3f56c885b069bc9_notes7.pdf
 file_size: 25539
 file_type: application/pdf
 learning_resource_types:
