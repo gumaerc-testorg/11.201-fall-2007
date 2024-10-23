@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on participating in the grassroots and "grasstops", planning
   and civic capacity, managing sprawling growth in the American West.
-file: /courses/11-201-gateway-planning-action-fall-2007/1f8e6203e8b12c93451b112800959d74_notes20.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/1f8e6203e8b12c93451b112800959d74_notes20.pdf
 file_size: 30147
 file_type: application/pdf
 learning_resource_types:

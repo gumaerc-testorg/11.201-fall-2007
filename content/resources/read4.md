@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 4 on the New Orleans panel
   and plan.
-file: /courses/11-201-gateway-planning-action-fall-2007/a7a68e4d5c5dba86f27777bdbfca2125_read4.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/a7a68e4d5c5dba86f27777bdbfca2125_read4.pdf
 file_size: 14783
 file_type: application/pdf
 learning_resource_types:

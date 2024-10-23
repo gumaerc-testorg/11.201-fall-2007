@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading tips and study questions for Lecture 19 on planning and participation.
-file: /courses/11-201-gateway-planning-action-fall-2007/df76e4ab8d891dd07b163f83362d3184_read19.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/df76e4ab8d891dd07b163f83362d3184_read19.pdf
 file_size: 13042
 file_type: application/pdf
 learning_resource_types:
