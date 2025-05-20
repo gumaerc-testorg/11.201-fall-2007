@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading tips and study questions for Lecture 25.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/c6063737f8fa7f7b2f1023ffcbccd8de_read25.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/c6063737f8fa7f7b2f1023ffcbccd8de_read25.pdf
 file_size: 17748
 file_type: application/pdf
 learning_resource_types:

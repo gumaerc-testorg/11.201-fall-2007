@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on planning history and traditions, case retrospective,
   questions for reflective planners, the use of theory, RLA re-analyzed, planning
   traditions and dilemmas overviewed, and transition to briefing case and exercise.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/73bb494876bdf6f9df6a7d7640918c57_notes2.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/73bb494876bdf6f9df6a7d7640918c57_notes2.pdf
 file_size: 47111
 file_type: application/pdf
 learning_resource_types:

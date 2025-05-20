@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading tips and study questions for Lecture 10 on planning as facilitation.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/fdc7a1a24924021bf814ddff5e157c48_read10.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/fdc7a1a24924021bf814ddff5e157c48_read10.pdf
 file_size: 13838
 file_type: application/pdf
 learning_resource_types:

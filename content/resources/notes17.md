@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on planning, cultural diversity, and siting cultural facilities
   in Australia.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/19418331a60ef5f5761f28d99c6e0a96_notes17.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/19418331a60ef5f5761f28d99c6e0a96_notes17.pdf
 file_size: 32040
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on planning as facilitation, resource conflict, and the
   "Towering Dilemma" case.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/42c8c1042b0b562fd88af77fece95b0a_notes10.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/42c8c1042b0b562fd88af77fece95b0a_notes10.pdf
 file_size: 29001
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading tips and study questions for Lecture 2 on rebuilding Los Angeles.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/b81e0e28747f576d9737105318e14041_read2.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/b81e0e28747f576d9737105318e14041_read2.pdf
 file_size: 17615
 file_type: application/pdf
 learning_resource_types:
