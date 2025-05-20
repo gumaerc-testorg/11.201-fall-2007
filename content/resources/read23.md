@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading tips and study questions for Lecture 23 on taking stock of self.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/cf11c091c450378cfe8604c7106b15ae_read23.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/cf11c091c450378cfe8604c7106b15ae_read23.pdf
 file_size: 47399
 file_type: application/pdf
 learning_resource_types:

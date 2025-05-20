@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample questions for the midterm exam.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/1d965b772882a2d39b6781f4509aaa0c_sample_questions.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/1d965b772882a2d39b6781f4509aaa0c_sample_questions.pdf
 file_size: 13683
 file_type: application/pdf
 learning_resource_types:
