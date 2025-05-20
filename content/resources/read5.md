@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 5 on judging the New Orleans
   plans.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/0d4db6587a3e437feeb0839654707508_read5.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/0d4db6587a3e437feeb0839654707508_read5.pdf
 file_size: 13326
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample slides with commentary from a communication workshop on how to
   prepare and deliver an effective briefing.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/241bd8cb33ff278c6dcc3060dbec10c4_samples.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/241bd8cb33ff278c6dcc3060dbec10c4_samples.pdf
 file_size: 750753
 file_type: application/pdf
 learning_resource_types: []

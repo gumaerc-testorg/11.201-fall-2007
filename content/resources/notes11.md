@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on planning as facilitation and micro-settings.
-file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/5df1c47692557362dc27727eb1be9c85_notes11.pdf
+file: /courses/11-201-gateway-planning-action-fall-2007/5df1c47692557362dc27727eb1be9c85_notes11.pdf
 file_size: 21400
 file_type: application/pdf
 learning_resource_types:
