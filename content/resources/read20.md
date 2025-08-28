@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 20 on planning and civic
   capacity.
-file: /courses/11-201-gateway-planning-action-fall-2007/681983e2526bb554e896dfc6a7f83d04_read20.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/681983e2526bb554e896dfc6a7f83d04_read20.pdf
 file_size: 13885
 file_type: application/pdf
 learning_resource_types:
