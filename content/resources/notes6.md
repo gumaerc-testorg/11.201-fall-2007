@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes on planning as social reform by expert designers, planning
   history and theory, and public housing redevelopment in Boston. Guest lecturer:
   Prof. Lawrence Vale'
-file: /courses/11-201-gateway-planning-action-fall-2007/84e967cfea40e6c271dfedfdc62be1c7_notes6.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/84e967cfea40e6c271dfedfdc62be1c7_notes6.pdf
 file_size: 45098
 file_type: application/pdf
 learning_resource_types:

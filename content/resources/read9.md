@@ -2,7 +2,7 @@
 content_type: resource
 description: Reading tips and study questions for Lecture 9 on planning as citizen
   participation.
-file: /courses/11-201-gateway-planning-action-fall-2007/0e5bb33859991d7abc2f2eba82844b25_read9.pdf
+file: /ol-ocw-studio-app/courses/11-201-gateway-planning-action-fall-2007/0e5bb33859991d7abc2f2eba82844b25_read9.pdf
 file_size: 44126
 file_type: application/pdf
 learning_resource_types:
