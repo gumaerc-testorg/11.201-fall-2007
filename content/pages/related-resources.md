@@ -13,17 +13,17 @@ This section provides resources relating to communication, power, and diversity.
 Websites
 --------
 
-["Technology of Participation" Facilitator Training](http://www.ica-usa.org/?page=topfacilitatorwho&hhSearchTerms=%22Technology+of+Participation%22+and+Facilitator+and+Training)
+{{% resource_link "c58af694-87ed-4738-a80e-5ae365da5eda" "\"Technology of Participation\" Facilitator Training" %}}
 
 This is by the Institute for Cultural Affairs and is relatively U.S.-focused but highly developed.
 
-[Interaction Institute — Facilitator Training](https://interactioninstitute.org/trainings/)
+{{% resource_link "98814909-0047-42bf-b710-a964c1108c34" "Interaction Institute — Facilitator Training" %}}
 
 A number of DUSP students and graduates have taken this training. The Interaction Institute for Social Change is a spin-off of the for-profit Interaction Associates.
 
 This is one portal site focused on the concept (and there's a Wikipedia entry on cultural competence, by the way). Much of the application of this concept has happened in health care and human services, though there are guides, case studies, and skill building resources available for more and more fields.
 
-[Free Online Workshops for Planners — Professional Development Institute (PDF)](http://www.ascd.org/ASCD/pdf/siteASCD/conferences/2011-12-PDI-Catalog.pdf)
+{{% resource_link "35745d17-0766-42fb-a72f-4404944dc905" "Free Online Workshops for Planners — Professional Development Institute (PDF)" %}}
 
 This is run by a colleague in planning at Rutgers. His Institute offers "Webinars" (Web-based seminars) and more, and these include, but go well beyond, cultural competence, planners' roles, and so on.
 
